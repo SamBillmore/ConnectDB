@@ -1,0 +1,8 @@
+database_driver = "ODBC Driver 13 for SQL Server"
+database_server = ""
+database_port=""
+username = ""
+password = ""
+database = ""
+schema = ""
+table = ""
